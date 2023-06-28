@@ -21,7 +21,8 @@ body
     p
     {
         color: white;
-        font-size: 3pc; 
+        font-size: 3pc;
+        font-family: 'Indie Flower'
     }
     div.fecha
     {
@@ -38,6 +39,7 @@ body
     {
         font-size: 3pc;
         color: black;
+        font-family: 'Dancing Script';
     }
     div.mapa
     {
